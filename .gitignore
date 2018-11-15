@@ -1,0 +1,3 @@
+.bundle/
+sensu-plugins-azure-acr-quota-metrics-*.gem
+vendor/

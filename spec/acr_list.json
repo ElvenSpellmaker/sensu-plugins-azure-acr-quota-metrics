@@ -1,0 +1,56 @@
+[
+	{
+	  "adminUserEnabled": true,
+	  "creationDate": "2018-04-04T12:19:08.490437+00:00",
+	  "id": "/subscriptions/9483/resourceGroups/my-docker-registry-group/providers/Microsoft.ContainerRegistry/registries/my-docker-registry",
+	  "location": "westeurope",
+	  "loginServer": "my-docker-registry.azurecr.io",
+	  "name": "my-docker-registry",
+	  "provisioningState": "Succeeded",
+	  "resourceGroup": "my-docker-registry-group",
+	  "sku": {
+		"name": "Standard",
+		"tier": "Standard"
+	  },
+	  "status": null,
+	  "storageAccount": null,
+	  "tags": {},
+	  "type": "Microsoft.ContainerRegistry/registries"
+	},
+	{
+		"adminUserEnabled": true,
+		"creationDate": "2018-04-04T12:19:08.490437+00:00",
+		"id": "/subscriptions/9483/resourceGroups/my-docker-registry-group/providers/Microsoft.ContainerRegistry/registries/classic-registry",
+		"location": "westeurope",
+		"loginServer": "classic-registry.azurecr.io",
+		"name": "classic-registry",
+		"provisioningState": "Succeeded",
+		"resourceGroup": "my-docker-registry-group",
+		"sku": {
+		  "name": "Classic",
+		  "tier": "Classic"
+		},
+		"status": null,
+		"storageAccount": null,
+		"tags": {},
+		"type": "Microsoft.ContainerRegistry/registries"
+	  },
+	  {
+		"adminUserEnabled": true,
+		"creationDate": "2018-04-04T12:19:08.490437+00:00",
+		"id": "/subscriptions/9483/resourceGroups/my-docker-registry-group/providers/Microsoft.ContainerRegistry/registries/my-premium-docker-registry",
+		"location": "westeurope",
+		"loginServer": "my-premium-docker-registry.azurecr.io",
+		"name": "my-premium-docker-registry",
+		"provisioningState": "Succeeded",
+		"resourceGroup": "my-docker-registry-group",
+		"sku": {
+		  "name": "Premium",
+		  "tier": "Premium"
+		},
+		"status": null,
+		"storageAccount": null,
+		"tags": {},
+		"type": "Microsoft.ContainerRegistry/registries"
+	  }
+]

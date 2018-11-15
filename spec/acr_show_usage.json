@@ -1,0 +1,16 @@
+{
+  "value": [
+    {
+      "currentValue": 12377246975,
+      "limit": 107374182400,
+      "name": "Size",
+      "unit": "Bytes"
+    },
+    {
+      "currentValue": 0,
+      "limit": 10,
+      "name": "Webhooks",
+      "unit": "Count"
+    }
+  ]
+}
