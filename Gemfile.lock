@@ -1,8 +1,9 @@
 PATH
   remote: .
   specs:
-    sensu-plugins-azure-acr-quota-metrics (0.0.1)
+    sensu-plugins-azure-acr-quota-metrics (0.0.2)
       json (= 2.1.0)
+      mixlib-cli (= 1.7.0)
       parallel (= 1.12.1)
       sensu-plugin (~> 1.2)
 
@@ -19,7 +20,7 @@ GEM
       rspec-mocks (~> 3.8.0)
     rspec-core (3.8.0)
       rspec-support (~> 3.8.0)
-    rspec-expectations (3.8.2)
+    rspec-expectations (3.8.3)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.8.0)
     rspec-mocks (3.8.0)
