@@ -1,7 +1,7 @@
 Sensu Plugins Azure ACR Quota Metrics
 =====================================
 
-[![Build Status](https://travis-ci.org/ElvenSpellmaker/sensu-plugins-azure-acr-quota-metrics.svg?branch=master)](https://travis-ci.org/ElvenSpellmaker/sensu-plugins-azure-acr-quota-metrics) [![Gem Version](https://badge.fury.io/rb/sensu-plugins-azure-acr-quota-metrics.svg)](https://badge.fury.io/rb/sensu-plugins-azure-acr-quota-metrics)
+[![Build Status](https://travis-ci.com/ElvenSpellmaker/sensu-plugins-azure-acr-quota-metrics.svg?branch=master)](https://travis-ci.com/ElvenSpellmaker/sensu-plugins-azure-acr-quota-metrics) [![Gem Version](https://badge.fury.io/rb/sensu-plugins-azure-acr-quota-metrics.svg)](https://badge.fury.io/rb/sensu-plugins-azure-acr-quota-metrics)
 
 This is a hacky Sensu plug-in to call out to the `az` to list all ACRs (Azure
 Container Registries) in a subscription and get quota usage metrics.
